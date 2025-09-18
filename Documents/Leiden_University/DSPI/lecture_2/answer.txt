@@ -1,0 +1,28 @@
+57 6F 72 6C 64
+
+00001840
+
+1bit: 3E
+24bit: 36
+
+6.3:
+the pc would not open the app
+
+no, the bytes have not changed
+
+For the hello_world.txt it does not let me change it s content because it s read only.
+
+7:
+1.How many disks do you have on your machine?
+I only have one disk C:
+
+2.For each disk, determine what the disk model is, its capacity is (in GB), and what the read and write speed is (in MB)? You might want to search the model on the internet to find the read and write speed?
+It has 476gb, Read: up to 2,400 MB/s, Write: up to 1,750 MB/s
+
+3.How many partitions does your disk or disks have, and what is their capacity? What is the function of each partition (e.g. contains your OS, contains only data, is a backup partition)?
+It has 5 partitions. 
+1: 529 MB Recovery
+2: 99 MB System
+3: 16 MB Reserved
+4: 475.61 GB Basic
+5: 720 MB Recovery

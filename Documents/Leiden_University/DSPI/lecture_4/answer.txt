@@ -1,0 +1,9 @@
+5
+ I have 182 active drivers
+ The name is WifiCx.sys located at C:\WINDOWS\system32\drivers\WifiCx.sys
+
+6.1 
+7543mb of RAM
+
+6.2
+C:\Program Files\Google\Chrome\Application\chrome.exe

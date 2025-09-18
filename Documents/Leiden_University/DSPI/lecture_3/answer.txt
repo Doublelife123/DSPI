@@ -1,0 +1,23 @@
+4.
+1.Find which CPU model you have. Next, list the number of cores ,and core speed.
+AMD Ryzen 5 5600H with Radeon Graphics, 6 cores, 3.3 ghz
+
+2. What type of RAM do you have, what is the model, what is the speed, and how much RAM do you have(in GB)?Hint: look up the PartNumber in your console.
+Capacity    Manufacturer  PartNumber        Speed
+8gb         Samsung       M471A1G44AB0-CWE  3200
+
+3.What kind of GPU do you have, and how much VRAM does it have or how much RAM is dedicated towards the iGPU?
+Nvidia Geforce GTX 1650, 4 GB GDDR5
+
+4. What firmware/bios version do you have? When was it last updated?
+Windows 11 Education 
+
+5.
+The boot order for my pc is: Windows Boot Manager, then EFI PXE Network
+
+6.
+My resolution is:1920x1080
+When i put the screen on portrait mode the whole screen flipped 90 degrees to the left and why would you put it in portrait mode? One answer will be the monitors that are flipped.
+When i changed my resolution my whole screen turned like one from in 1990s.
+
+7.
